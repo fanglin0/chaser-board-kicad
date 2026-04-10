@@ -1,5 +1,5 @@
 # Chaser Board KiCad
-<img src="https://ibb.co/NvYR6qR" alt="Screenshot of my heart chaser board"> 
+![Screenshot of my heart chaser board](https://ibb.co/NvYR6qR) 
 
 ##  What this project is
 Learning Kicad through the chaser board tutorial for Stasis x Sleepover submission.
